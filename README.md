@@ -11,6 +11,21 @@ A Python script to generate 2D and 3D Chaos Game Representation (CGR) plots from
 - Customizable colormap for the plots.
 - Detailed logging of the processing steps.
 -  2D CGR can handle different sequence lengths using frequency counts (FCGR) with k > 1
+
+## Gallery
+
+![Image](output/images/cgr_2d_2.png)
+
+2D CGR representation for gene NM_000903.3 [Homo sapiens NAD(P)H quinone dehydrogenase 1 (NQO1]
+
+![Image](output/images/cgr_3d_1.png)
+
+3D CGR representation for gene NM_000903.3 [Homo sapiens NAD(P)H quinone dehydrogenase 1 (NQO1]
+
+![Image](output/images/fcgr_k4_2d_1.png)
+
+2D FCGR (k=4) representation for gene NM_000903.3 [Homo sapiens NAD(P)H quinone dehydrogenase 1 (NQO1]
+
 ## Requirements
 
 - Python 3.x
