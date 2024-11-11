@@ -1,0 +1,29 @@
+2024-11-11 13:53:26,076 - INFO - Logging configured successfully.
+2024-11-11 13:53:26,076 - INFO - Reading sequences from sequences.fasta
+2024-11-11 13:53:26,076 - INFO - Error: File sequences.fasta not found.
+2024-11-11 13:53:26,076 - INFO - No sequences found. Exiting.
+2024-11-11 13:53:56,631 - INFO - Logging configured successfully.
+2024-11-11 13:53:56,636 - INFO - Reading sequences from data/sample_sequences.fasta
+2024-11-11 13:53:56,641 - INFO - Created output directory at outputs/images
+2024-11-11 13:53:56,641 - INFO - Starting processing with 4 parallel processes.
+2024-11-11 13:54:01,856 - INFO - Processing completed.
+2024-11-11 13:54:25,096 - INFO - Logging configured successfully.
+2024-11-11 13:54:25,096 - INFO - Reading sequences from data/sample_sequences.fasta
+2024-11-11 13:54:25,096 - INFO - Starting processing with 4 parallel processes.
+2024-11-11 13:54:28,619 - INFO - Processing completed.
+2024-11-11 14:01:48,257 - INFO - Logging configured successfully.
+2024-11-11 14:01:48,257 - INFO - Reading sequences from data/input_sequences.fasta
+2024-11-11 14:01:48,257 - INFO - Error: File data/input_sequences.fasta not found.
+2024-11-11 14:01:48,257 - INFO - No sequences found. Exiting.
+2024-11-11 14:02:04,007 - INFO - Logging configured successfully.
+2024-11-11 14:02:04,007 - INFO - Reading sequences from data/sample_sequences.fasta
+2024-11-11 14:02:04,007 - INFO - Starting processing with 4 parallel processes.
+2024-11-11 14:02:06,982 - INFO - Processing completed.
+2024-11-11 14:17:46,248 - INFO - Logging configured successfully.
+2024-11-11 14:17:46,258 - INFO - Reading sequences from data/sample_sequences.fasta
+2024-11-11 14:17:46,258 - INFO - Starting processing with 4 parallel processes.
+2024-11-11 14:17:48,874 - INFO - Processing completed.
+2024-11-11 14:27:41,300 - INFO - Logging configured successfully.
+2024-11-11 14:27:41,315 - INFO - Reading sequences from data/sample_sequences.fasta
+2024-11-11 14:27:41,315 - INFO - Starting processing with 4 parallel processes.
+2024-11-11 14:27:43,814 - INFO - Processing completed.
