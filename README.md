@@ -1,4 +1,4 @@
-# CGR Generator
+# FastaCGR
 
 ![FastaCGR Logo](images/FASTACGR.png)
 
